@@ -5,3 +5,6 @@
 
 [node name="Player" unique_id=420698396 instance=ExtResource("1_rp718")]
 script = ExtResource("2_yewv4")
+
+[node name="Camera2D" type="Camera2D" parent="." index="2" unique_id=617120253]
+zoom = Vector2(3, 3)
