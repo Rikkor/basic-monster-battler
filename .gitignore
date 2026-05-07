@@ -15,3 +15,16 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Extra files to ignore
+*.tmp
+
+*.ogg
+*.import
+*.mp3
+*.wav
+
+*.png
+
+*.otf
+*.ttf
